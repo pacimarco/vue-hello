@@ -6,6 +6,5 @@ var app = new Vue({
     el: '#app',
     data: {
       message: 'Primo esercizio utilizzando Vue!',
-      
     }
   })
